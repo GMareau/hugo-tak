@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/agile-tour-aix-marseille-2017/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agile-tour-aix-marseille-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/agile-tour-aix-marseille-2017/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/maria/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/maria/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/leo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/leo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/leo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/topics/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/topics/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/yvan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/yvan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/yvan/"
+                />
+  </url>
+  
+</urlset>

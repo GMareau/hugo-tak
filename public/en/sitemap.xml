@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/ale-introvert-guide/</loc>
+    <lastmod>2018-08-14T18:18:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-08-14T18:18:33+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/portfolio/atam17/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/agile-tour-aix-marseille-2017/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/agile-tour-aix-marseille-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agile-tour-aix-marseille-2017/"
+                />
+  </url>
+  
+  <url>
+    <loc>/topics/ale/</loc>
+    <lastmod>2018-08-14T18:18:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/atam17/maria/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/maria/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-08-14T18:18:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/portfolio/atam17/leo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/leo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/leo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
+    <lastmod>2018-08-14T18:18:33+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/topics/"
+                />
+  </url>
+  
+  <url>
+    <loc>/portfolio/atam17/yvan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/yvan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/yvan/"
+                />
+  </url>
+  
+</urlset>

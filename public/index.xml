@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Agile Kaleidoscope</title>
+    <link>/</link>
+    <description>Recent content on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Aug 2018 18:18:33 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ALE introvert survival guide</title>
+      <link>/blog/ale-introvert-guide/</link>
+      <pubDate>Tue, 14 Aug 2018 18:18:33 +0200</pubDate>
+      
+      <guid>/blog/ale-introvert-guide/</guid>
+      <description>&lt;p&gt;In preparation for &lt;a href=&#34;https://agilelean.eu&#34;&gt;Agile Lean Europe 2018&lt;/a&gt; in Zurich, the attendees have been invited by the fantastic organizers to a zoom call to open the space. During this call, the question about introversion in an open space event has been raised but not answered. It got me thinking. “How is it to be an introvert at ALE?”. If we’ve met, you probably have noticed that I’m on the introversion part of the spectrum. It’s also my third participation in a row. This is my “survival guide” based on my own experience.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Asmaa &amp; Maria</title>
+      <link>/portfolio/atam17/maria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/atam17/maria/</guid>
+      <description>Asmaa (left) is a product owner and Maria (right) is a developer. They rather liked to pose together.</description>
+    </item>
+    
+    <item>
+      <title>Léo</title>
+      <link>/portfolio/atam17/leo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/atam17/leo/</guid>
+      <description>Léo is an Agile/Lean coach. He came all the way from Switzerland to talk at Agile Tour Aix-Marseille 2017 in the south of France. Have you noticed the mic is holding? He’s using it to register his podcast “le podcast agile“. I must say I love his t-shirt.</description>
+    </item>
+    
+    <item>
+      <title>Yvan</title>
+      <link>/portfolio/atam17/yvan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/atam17/yvan/</guid>
+      <description>Yvan is one of the co-organizers of the Agile Tour Aix-Marseille. He’s embarking soon on a new professional journey! Feel free to call him Yves or Yann too.</description>
+    </item>
+    
+  </channel>
+</rss>

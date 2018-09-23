@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "/"
+title = "The Agile Kaleidoscope"
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+  [languages.fr]
+    weight = 2
+    languageCode = "fr"
+    [languages.fr.params]
+      subtitle = "Un voyage photographique dans l'agilité et le lean et au-délà..."
+
+[taxonomies]
+  category = "categories"
+  topic = "topics"
+  tag = "tags"
+
+[params]
+  subtitle = "A photographic journey into agile and lean and beyond..."

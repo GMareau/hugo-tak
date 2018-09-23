@@ -1,10 +1,68 @@
-<html>
-<head>
-  <title>The agile kaleidoscope</title>
-</head>
-<body>
-{{ block "main" . }}
+{{ define "main" }}
+<section>
+  <div class="content">
+    <h1>{{ .Title }}</h1>
+    <div class="gallery style2 large onscroll-fade-in lightbox">
+    <article>
+      {{ $img := .Resources.GetMatch "*"}}
+      {{ with $img }}
+      <a href="{{ $img.RelPermalink}}" class="image">
+        {{ if eq .Params.orientation "landscape"}}
+          {{ $fillImage := $img.Fill "327x327"}}
+          <img src="{{ $fillImage.RelPermalink }}" />
+        {{ else }}
+          {{ $fillImage := $img.Fill "327x327 top"}}
+          <img src="{{ $fillImage.RelPermalink }}" />
+        {{ end }}
+      {{ end }}
+      </a>
+      <div class="caption">
+        <p>{{ .Content}}</p>
+      </div>
+    </article>
+    </div>
+    <div class="caption">{{ .Content }}
+    </dvi>
+  </div>
+</section>
 
+<div class="gallery style2 small onscroll-fade-in">
+  {{ range $index, $element := .Parent.Pages }}
+  <article>
+    {{ $img := .Resources.GetMatch "*"}}
+    {{ with $img }}
+    <a href="{{ $element.RelPermalink}}" class="image">
+      {{ if eq .Params.orientation "landscape"}}
+        {{ $fillImage := $img.Fill "327x327"}}
+        <img src="{{ $fillImage.RelPermalink }}" />
+      {{ else }}
+        {{ $fillImage := $img.Fill "327x327 top"}}
+        <img src="{{ $fillImage.RelPermalink }}" />
+      {{ end }}
+    {{ end }}
+    </a>
+    <div class="caption">
+      <h3>{{ $element.Title}}</h3>
+      <p>{{ $element.Content}}</p>
+    </div>
+  </article>
+  {{ end }}
+</div>
+
+{{ with .Params.tags }}
+<ul id="tags">
+  {{ range . }}
+  <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}/">{{ . }}</a> </li>
+  {{ end }}
+</ul>
+{{ end }}
+</div>
+<div>
+  {{ with .PrevInSection }}
+  <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+  {{ end }}
+  {{ with .NextInSection }}
+  <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+  {{ end }}
+</div>
 {{end}}
-</body>
-</html>

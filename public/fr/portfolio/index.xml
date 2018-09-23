@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on The Agile Kaleidoscope</title>
+    <link>/fr/portfolio/</link>
+    <description>Recent content in Portfolios on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="/fr/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asmaa &amp; Maria</title>
+      <link>/fr/portfolio/atam17/maria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/portfolio/atam17/maria/</guid>
+      <description>Asmaa (gauche) est product owner et Maria (droite) est développeuse. Elles ont préféré poser ensemble.</description>
+    </item>
+    
+    <item>
+      <title>Léo</title>
+      <link>/fr/portfolio/atam17/leo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/portfolio/atam17/leo/</guid>
+      <description>Léo est coach Agile/Lean. Il a fait le déplacement depuis la Suisse pour venir parler à l’Agile Tour Aix-Marseille 2017 dans le sud de la France. Avez-vous remarqué le micro qu’il tient? Il s’en sert pour enregistrer son podcast “le podcast agile“. Je dois dire que j’adore son t-shirt.</description>
+    </item>
+    
+    <item>
+      <title>Yvan</title>
+      <link>/fr/portfolio/atam17/yvan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/portfolio/atam17/yvan/</guid>
+      <description>Yvan est l’un des co-organisateurs de l’Agile Tour Aix-Marseille. Il est sur le point de vivre une nouvelle aventure professionnelle. Vous pouvez également l’appeler Yves ou Yann.</description>
+    </item>
+    
+  </channel>
+</rss>
