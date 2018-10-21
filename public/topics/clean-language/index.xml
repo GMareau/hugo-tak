@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clean Language on The Agile Kaleidoscope</title>
+    <link>/topics/clean-language/</link>
+    <description>Recent content in Clean Language on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Oct 2018 12:53:48 +0200</lastBuildDate>
+    
+	<atom:link href="/topics/clean-language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Would you mind a bit of Clean Language with your retrospective?</title>
+      <link>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</link>
+      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      
+      <guid>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</guid>
+      <description>&lt;p&gt;Just under a month ago, I was preparing a retrospective for the main team that I coach. I like to regularly offer them different activities to stimulate their creativity and prevent a routine from settling in. So I was looking for a new format by browsing through my reading lists, books, and conference notes. That’s when the penny dropped! Wouldn’t this be a good opportunity to put my new Clean Language skills into practice? Of course, the answer was yes!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When Work Is Magical</title>
+      <link>/blog/2018/02/when-work-is-magical/</link>
+      <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
+      
+      <guid>/blog/2018/02/when-work-is-magical/</guid>
+      <description>I have this question lingering on the back of my mind since I heard it asked by Olaf Lewitz and Christine Neidhardt at the Metaphorum. Lately, I’ve been putting a lot of effort into thinking about what I do, what I want to do, what my skills are and so on. It seems that I’ve been trying to put myself in a box (or multiple boxes) based on my deeds. Therefore this question “When my work is magical, it is like what?</description>
+    </item>
+    
+    <item>
+      <title>How to break free from content knowledge bias?</title>
+      <link>/blog/2017/12/how-to-break-free-from-knowledge-bias/</link>
+      <pubDate>Mon, 11 Dec 2017 18:31:18 +0200</pubDate>
+      
+      <guid>/blog/2017/12/how-to-break-free-from-knowledge-bias/</guid>
+      <description>Do you ever feel that, as a facilitator, you are not as neutral as you would like to be? And that it is a barrier to achieve a better facilitation? I know I do. You might think that I had this feeling before when running a retrospective with one of my teams. It would make sense since I’m part of the team and get things done as well. Oddly enough, it is not.</description>
+    </item>
+    
+  </channel>
+</rss>

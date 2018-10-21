@@ -6,3 +6,12 @@ other = "Lire la suite"
 
 [viewSerie]
 other = "Voir la série complète"
+
+[shootedAt]
+other = "Shooté à"
+
+[prevPortrait]
+other = "Portrait précédent"
+
+[nextPortrait]
+other = "Portrait suivant"

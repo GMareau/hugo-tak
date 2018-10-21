@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on The Agile Kaleidoscope</title>
+    <link>/topics/thoughts/</link>
+    <description>Recent content in Thoughts on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Feb 2018 18:23:36 +0200</lastBuildDate>
+    
+	<atom:link href="/topics/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Work Is Magical</title>
+      <link>/blog/2018/02/when-work-is-magical/</link>
+      <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
+      
+      <guid>/blog/2018/02/when-work-is-magical/</guid>
+      <description>I have this question lingering on the back of my mind since I heard it asked by Olaf Lewitz and Christine Neidhardt at the Metaphorum. Lately, I’ve been putting a lot of effort into thinking about what I do, what I want to do, what my skills are and so on. It seems that I’ve been trying to put myself in a box (or multiple boxes) based on my deeds. Therefore this question “When my work is magical, it is like what?</description>
+    </item>
+    
+  </channel>
+</rss>

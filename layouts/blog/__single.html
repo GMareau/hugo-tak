@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         <p><b>{{ .Date.Format "Mon Jan 2, 2006" }}</b></p>
+         {{ .Content }}
+         {{ template "_internal/disqus.html" . }}
+				 <aside id="meta">
+				     <div>
+				     {{ with .Params.topics }}
+				     <ul id="topics">
+				       {{ range . }}
+				         <li><a href="{{ "topics" | absURL}}/{{ . | urlize }}">{{ . }}</a> </li>
+				       {{ end }}
+				     </ul>
+				     {{ end }}
+				     {{ with .Params.tags }}
+				     <ul id="tags">
+				       {{ range . }}
+				         <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+				       {{ end }}
+				     </ul>
+				     {{ end }}
+				     </div>
+				 </aside>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

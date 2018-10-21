@@ -1,14 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Agile Kaleidoscope</title>
+    <title>Agile Tour Aix-Marseille 2017 on The Agile Kaleidoscope</title>
     <link>/portfolio/atam17/</link>
-    <description>Recent content on The Agile Kaleidoscope</description>
+    <description>Recent content in Agile Tour Aix-Marseille 2017 on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 09 Sep 2018 19:25:10 +0200</lastBuildDate>
     
 	<atom:link href="/portfolio/atam17/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mostafa</title>
+      <link>/portfolio/atam17/mostafa/</link>
+      <pubDate>Sun, 09 Sep 2018 19:25:10 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/mostafa/</guid>
+      <description>Mostafa is a sale manager.
+What a smile!
+I’m pretty sure I have a planning poker deck from his company somewhere.</description>
+    </item>
+    
+    <item>
+      <title>Mohamed</title>
+      <link>/portfolio/atam17/mohamed/</link>
+      <pubDate>Sun, 09 Sep 2018 19:25:05 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/mohamed/</guid>
+      <description>Mohamed is a Scrum Master.
+We’ve met this summer at a Meetup about SAFe.
+We were pleased to bump into each other again.</description>
+    </item>
+    
+    <item>
+      <title>Jerome</title>
+      <link>/portfolio/atam17/jerome/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:56 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/jerome/</guid>
+      <description>Jérôme is Scrum Master.
+He’s on an undercover mission but don’t tell anyone, it’s classified!</description>
+    </item>
+    
+    <item>
+      <title>Jean Luc</title>
+      <link>/portfolio/atam17/jean-luc/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:50 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/jean-luc/</guid>
+      <description>Jean-Luc is a consultant.
+In order to come from New Caledonia, he spent more time on the plan than with us.
+You probably can’t tell but he was suffering from jet lag when the shot was taken.
+During his talk, the room was so crowdy that people had to sit on the floor.</description>
+    </item>
+    
+    <item>
+      <title>Eric</title>
+      <link>/portfolio/atam17/eric/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:43 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/eric/</guid>
+      <description>Eric is a product owner.
+He came with his co-worker Anthony.
+I would quote Master Yoda on this one “Always two there are; no more, no less. A master and an apprentice.”
+Guess who’s who!</description>
+    </item>
+    
+    <item>
+      <title>Anthony</title>
+      <link>/portfolio/atam17/anthony/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:37 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/anthony/</guid>
+      <description>Anthony is a product owner.
+He was invited by his co-worker Eric.
+I would quote Master Yoda on this one “Always two there are; no more, no less. A master and an apprentice.”
+Guess who’s who!</description>
+    </item>
+    
+    <item>
+      <title>Sophie</title>
+      <link>/portfolio/atam17/sophie/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:18 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/sophie/</guid>
+      <description>Sophie is an Agile coach.
+She’s proud of what she has accomplished with her co-workers.</description>
+    </item>
+    
+    <item>
+      <title>Viviane</title>
+      <link>/portfolio/atam17/viviane/</link>
+      <pubDate>Sun, 09 Sep 2018 19:24:18 +0200</pubDate>
+      
+      <guid>/portfolio/atam17/viviane/</guid>
+      <description>Viviane is a facilitator.
+Her superpower? Graphic facilitation!
+She believes in the power of collective intelligence</description>
+    </item>
     
     <item>
       <title>Asmaa &amp; Maria</title>
@@ -25,7 +115,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/atam17/leo/</guid>
-      <description>Léo is an Agile/Lean coach. He came all the way from Switzerland to talk at Agile Tour Aix-Marseille 2017 in the south of France. Have you noticed the mic is holding? He’s using it to register his podcast “le podcast agile“. I must say I love his t-shirt.</description>
+      <description>&lt;p&gt;Léo is an Agile/Lean coach.
+He came all the way from Switzerland to talk at Agile Tour Aix-Marseille 2017 in the south of France.
+&lt;/p&gt;</description>
     </item>
     
     <item>

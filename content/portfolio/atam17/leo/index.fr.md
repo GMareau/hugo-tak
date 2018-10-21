@@ -1,8 +1,7 @@
 ---
 title: "Léo"
 image: "thumb-theagilekaleidoscope-ATAM17-Leo.jpg"
-tags :
-- "Agile Tour Aix-Marseille 2017"
+showimage: true
 ---
 
 Léo est coach Agile/Lean.

@@ -1,6 +1,9 @@
 ---
 title: "Yvan"
+showimage: true
 image: "thumb-theagilekaleidoscope-ATAM17-Yvan.jpg"
+aliases :
+  - /portfolio/yvan
 ---
 
 Yvan is one of the co-organizers of the Agile Tour Aix-Marseille.

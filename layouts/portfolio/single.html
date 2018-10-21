@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         <p><b>{{ i18n "shootedAt" }} <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a></b></p>
+         <blockquote>{{ .Content }}</blockquote>
+         {{ $img := .Resources.GetMatch "*"}}
+           {{ if eq .Params.orientation "landscape"}}
+             {{ $fillImage := $img.Fill "1440x900"}}
+             <img src="{{ $fillImage.RelPermalink }}"  alt="" class="img-responsive"/>
+           {{ else }}
+             {{ $fillImage := $img.Fill "900x1350"}}
+             <img src="{{ $fillImage.RelPermalink }}"  alt="" class="img-responsive"/>
+           {{ end }}
+         {{ template "_internal/disqus.html" . }}
+         <aside id="meta">
+             <div>
+             {{ with .Params.topics }}
+             <ul id="topics">
+               {{ range . }}
+                 <li><a href="{{ "topics" | absURL}}/{{ . | urlize }}">{{ . }}</a> </li>
+               {{ end }}
+             </ul>
+             {{ end }}
+             {{ with .Params.tags }}
+             <ul id="tags">
+               {{ range . }}
+                 <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+               {{ end }}
+             </ul>
+             {{ end }}
+             </div>
+             <div>
+               <ol class="breadcrumb">
+                 {{ with .PrevInSection }}
+                   <li><a class="previous" href="{{.Permalink}}">{{ i18n "prevPortrait" }}</a></li>
+                 {{ end }}
+                 {{ with .NextInSection }}
+                   <li><a class="next" href="{{.Permalink}}">{{ i18n "nextPortrait" }}</a></li>
+                 {{ end }}
+               </ol>
+             </div>
+         </aside>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

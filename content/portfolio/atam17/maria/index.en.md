@@ -1,13 +1,10 @@
 ---
 title: "Asmaa & Maria"
-image: "thumb-theagilekaleidoscope-ATAM17-Maria.jpg"
-tags:
-- "Agile Tour Aix-Marseille 2017"
-resources:
-- src: theagilekaleidoscope-ATAM17-Maria.jpg
-  name: portrait
-  params:
-    orientation: landscape
+showimage: true
+showonlyimage: false
+orientation: "landscape"
+aliases :
+  - /portfolio/asmaa-maria
 ---
 
 Asmaa (left) is a product owner and Maria (right) is a developer.

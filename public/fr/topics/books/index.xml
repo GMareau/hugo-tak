@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on The Agile Kaleidoscope</title>
+    <link>/fr/topics/books/</link>
+    <description>Recent content in Books on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 26 Mar 2018 18:39:13 +0200</lastBuildDate>
+    
+	<atom:link href="/fr/topics/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>“From contempt to curiosity”, C. Walker – the genesis of Systemic Modelling</title>
+      <link>/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</link>
+      <pubDate>Mon, 26 Mar 2018 18:39:13 +0200</pubDate>
+      
+      <guid>/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</guid>
+      <description>Lorsque l’on parle Clean Language et particulièrement Clean avec des équipes ou des groupes, le laps de temps qui s’écoule avant que l’on ne fasse référence au travail de Caitlin Walker est généralement très court (de l’ordre de 10 à 15 secondes selon des études très sérieuses). Je l’ai entendu être mentionné tellement de fois que je ne pouvais échapper à la lecture de “From contempt to curiosity: creating the conditions for groups to collaborate”.</description>
+    </item>
+    
+    <item>
+      <title>“How creative workers learn” : habitude de lecture, apprentissage &amp; lead time</title>
+      <link>/fr/blog/2018/01/creative-workers-learn-habitude-de-lecture-apprentissage-lead-time/</link>
+      <pubDate>Wed, 10 Jan 2018 17:42:34 +0200</pubDate>
+      
+      <guid>/fr/blog/2018/01/creative-workers-learn-habitude-de-lecture-apprentissage-lead-time/</guid>
+      <description>Si vous aussi, vous avez un endroit bien spécial (une étagère, une bibliothèque, une table de chevet ou autre) où vous empilez les livres que vous avez commandés mais n’avez pas le temps de lire, ce qui suit devrait vous parler. En début d’année dernière, j’ai décidé de lutter contre ce phénomène. Par le passé, j’ai tenté d’attaquer le problème à sa source, c’est-à-dire arrêter de commander de nouveaux livres.</description>
+    </item>
+    
+  </channel>
+</rss>

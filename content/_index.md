@@ -1,7 +1,5 @@
 ---
-title: ""
-subtitle: ""
+title: "The agile kaleidoscope - A photographic journey into agile and lean and beyond..."
+date: 2018-10-14T21:37:05+02:00
 draft: false
 ---
-
-The goal is to shoot as many portraits as I can of people from agile and lean. By zooming in the individuals, I want to explore the diversity of those that are forming our communities.

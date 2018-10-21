@@ -3,31 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/</loc>
+    <loc>/fr/portfolio/atam17/mostafa/</loc>
+    <lastmod>2018-09-09T19:25:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/portfolio/atam17/mostafa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/fr/portfolio/atam17/mostafa/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/agile-tour-aix-marseille-2017/</loc>
-    <priority>0</priority>
+    <loc>/fr/portfolio/atam17/mohamed/</loc>
+    <lastmod>2018-09-09T19:25:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/agile-tour-aix-marseille-2017/"
+                href="/portfolio/atam17/mohamed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/agile-tour-aix-marseille-2017/"
+                href="/fr/portfolio/atam17/mohamed/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/jerome/</loc>
+    <lastmod>2018-09-09T19:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/jerome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/jerome/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/jean-luc/</loc>
+    <lastmod>2018-09-09T19:24:50+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/jean-luc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/jean-luc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/eric/</loc>
+    <lastmod>2018-09-09T19:24:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/eric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/eric/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/anthony/</loc>
+    <lastmod>2018-09-09T19:24:37+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/anthony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/anthony/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/sophie/</loc>
+    <lastmod>2018-09-09T19:24:18+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/sophie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/sophie/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/viviane/</loc>
+    <lastmod>2018-09-09T19:24:18+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/viviane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/viviane/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</loc>
+    <lastmod>2018-03-26T18:39:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/2018/01/creative-workers-learn-habitude-de-lecture-apprentissage-lead-time/</loc>
+    <lastmod>2018-01-10T17:42:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fr/portfolio/atam17/</loc>
+    <lastmod>2018-09-09T19:25:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/atam17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/atam17/"
                 />
   </url>
   
@@ -42,6 +168,38 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/portfolio/atam17/maria/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/blog/</loc>
+    <lastmod>2018-03-26T18:39:13+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/topics/books/</loc>
+    <lastmod>2018-03-26T18:39:13+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/topics/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/topics/books/"
                 />
   </url>
   
@@ -105,7 +263,24 @@
   </url>
   
   <url>
+    <loc>/fr/</loc>
+    <lastmod>2018-09-09T19:25:10+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/topics/</loc>
+    <lastmod>2018-03-26T18:39:13+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

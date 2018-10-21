@@ -1,5 +1,6 @@
-baseURL = "/"
+baseURL = "http://localhost:1313"
 title = "The Agile Kaleidoscope"
+theme = "hugo-creative-portfolio-theme"
 
 DefaultContentLanguage = "en"
 
@@ -11,7 +12,11 @@ DefaultContentLanguage = "en"
     weight = 2
     languageCode = "fr"
     [languages.fr.params]
-      subtitle = "Un voyage photographique dans l'agilité et le lean et au-délà..."
+      description = "Un voyage photographique dans l'agilité et le lean et au-délà..."
+      sidebarAbout = [
+        "Un voyage photographique dans l'agilité et le lean et au-délà...",
+        "L'objectif est de prendre autant de portaits que je peux de personnes des communautés agile et lean. En zoomant sur les individus, je veux explorer la diversité de ceux qui forment nos communautés."
+      ]
 
 [taxonomies]
   category = "categories"
@@ -19,4 +24,51 @@ DefaultContentLanguage = "en"
   tag = "tags"
 
 [params]
-  subtitle = "A photographic journey into agile and lean and beyond..."
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "A photographic journey into agile and lean and beyond..."
+  copyright = "&copy;2018 Gaël Mareau"
+  sidebarAbout = [
+    "A photographic journey into agile and lean and beyond...",
+    "The goal is to shoot as many portraits as I can of people from agile and lean. By zooming in the individuals, I want to explore the diversity of those that are forming our communities.",
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+  # Nav links in the side bar
+  [[languages.en.menu.main]]
+  url    = "/"
+  name   = "Portfolio"
+  weight = 1
+  home   = true
+
+  [[languages.en.menu.main]]
+  url    = "/about"
+  name   = "About"
+  weight = 0
+
+  [[languages.fr.menu.main]]
+  url    = "/"
+  name   = "Portfolio"
+  weight = 1
+
+  [[languages.fr.menu.main]]
+  url    = "/fr/a-propos"
+  name   = "A propos"
+  weight = 0
+
+  [params.social]
+  twitter       = "https://twitter.com/GaelMareau"
+  linkedin      = "https://www.linkedin.com/in/gaelmareau/"

@@ -20,5 +20,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Books</title>
+      <link>/topics/books/</link>
+      <pubDate>Mon, 26 Mar 2018 18:39:13 +0200</pubDate>
+      
+      <guid>/topics/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean Language</title>
+      <link>/topics/clean-language/</link>
+      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      
+      <guid>/topics/clean-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitation</title>
+      <link>/topics/facilitation/</link>
+      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      
+      <guid>/topics/facilitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective</title>
+      <link>/topics/retrospective/</link>
+      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      
+      <guid>/topics/retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>/topics/thoughts/</link>
+      <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
+      
+      <guid>/topics/thoughts/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
