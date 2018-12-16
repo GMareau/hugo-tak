@@ -1,5 +1,6 @@
 ---
 title: "Yvan"
+date: 2017-12-09T19:24:43+02:00
 showimage: true
 image: "thumb-theagilekaleidoscope-ATAM17-Yvan.jpg"
 aliases :

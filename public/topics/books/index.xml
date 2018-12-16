@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on The Agile Kaleidoscope</title>
-    <link>/topics/books/</link>
+    <link>https://www.theagilekaleidoscope.com/topics/books/</link>
     <description>Recent content in Books on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Mar 2018 18:39:13 +0200</lastBuildDate>
     
-	<atom:link href="/topics/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theagilekaleidoscope.com/topics/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>“From contempt to curiosity”, C. Walker – the genesis of Systemic Modelling</title>
-      <link>/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</link>
       <pubDate>Mon, 26 Mar 2018 18:39:13 +0200</pubDate>
       
-      <guid>/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</guid>
       <description>When one is talking about Clean Language and especially Clean with teams or groups, the time it takes before a reference is made to Caitlin Walker’s work is usually very short (around 10 to 15 seconds according to very serious studies). I’ve heard it mentioned so many times that I could not escape reading “From contempt to curiosity: creating the conditions for groups to collaborate”. Between you and me, I didn’t really force myself.</description>
     </item>
     

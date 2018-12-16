@@ -2,66 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on The Agile Kaleidoscope</title>
-    <link>/topics/</link>
+    <link>https://www.theagilekaleidoscope.com/topics/</link>
     <description>Recent content in Topics on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Aug 2018 18:18:33 +0200</lastBuildDate>
     
-	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theagilekaleidoscope.com/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ale</title>
-      <link>/topics/ale/</link>
+      <link>https://www.theagilekaleidoscope.com/topics/ale/</link>
       <pubDate>Tue, 14 Aug 2018 18:18:33 +0200</pubDate>
       
-      <guid>/topics/ale/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/ale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>/topics/books/</link>
+      <link>https://www.theagilekaleidoscope.com/topics/books/</link>
       <pubDate>Mon, 26 Mar 2018 18:39:13 +0200</pubDate>
       
-      <guid>/topics/books/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clean Language</title>
-      <link>/topics/clean-language/</link>
-      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      <link>https://www.theagilekaleidoscope.com/topics/clean-language/</link>
+      <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
       
-      <guid>/topics/clean-language/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/clean-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.theagilekaleidoscope.com/topics/events/</link>
+      <pubDate>Mon, 26 Nov 2018 21:00:16 +0100</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/topics/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facilitation</title>
-      <link>/topics/facilitation/</link>
-      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      <link>https://www.theagilekaleidoscope.com/topics/facilitation/</link>
+      <pubDate>Thu, 09 Nov 2017 12:53:48 +0200</pubDate>
       
-      <guid>/topics/facilitation/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/facilitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrospective</title>
-      <link>/topics/retrospective/</link>
-      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      <link>https://www.theagilekaleidoscope.com/topics/retrospective/</link>
+      <pubDate>Mon, 11 Dec 2017 18:31:18 +0200</pubDate>
       
-      <guid>/topics/retrospective/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/retrospective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>/topics/thoughts/</link>
+      <link>https://www.theagilekaleidoscope.com/topics/thoughts/</link>
       <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
       
-      <guid>/topics/thoughts/</guid>
+      <guid>https://www.theagilekaleidoscope.com/topics/thoughts/</guid>
       <description></description>
     </item>
     

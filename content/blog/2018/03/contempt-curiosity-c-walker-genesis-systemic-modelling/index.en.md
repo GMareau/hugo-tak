@@ -22,7 +22,7 @@ extracts from sessions
 
 The content is therefore rich and gives a very good idea of the functioning and potential of Systemic Modelling. By the way, it is not necessary to know the Clean Language before reading. The whole is pleasant to read and is decorated, as a bonus, with nice illustrations.
 
-{{% img "Systemic Modelling cover" %}}
+{{< img src="51jX2KO3UOL.jpg" class="pull-left" style="margin-right:15px">}}
 
 There are also warnings at the end of the chapter. I found these passages particularly revealing of the author’s state of mind and somewhere of her honesty. Clean Language and Systemic Modelling are not sold as miracle methods. These warnings are an opportunity to recall that external factors can contribute to the success of the process, that sometimes the changes have not lasted, …
 

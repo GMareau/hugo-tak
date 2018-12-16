@@ -6,7 +6,7 @@
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
          <p><b>{{ .Date.Format "Mon Jan 2, 2006" }}</b></p>
-         {{ .Content }}
+         {{ .Content | replaceRE "<p>" "<p class=\"text-justify\">" | safeHTML }}
          {{ template "_internal/disqus.html" . }}
 				 <aside id="meta">
 				     <div>

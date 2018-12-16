@@ -22,7 +22,8 @@ Pris individuellement chaque chapitre contient grossièrement :
 
 Le contenu est donc riche et permet de se faire une très bonne idée du fonctionnement et du potentiel de Systemic Modelling. Au passage, il n’est pas nécessaire de connaître le Clean Language avant la lecture. Le tout est agréable à lire et est agrémenté, en bonus, d’illustrations sympas.
 
-{{% img "Those cupcakes are way overcooked!" %}}
+
+{{< img src="51jX2KO3UOL.jpg" class="pull-left" style="margin-right:15px">}}
 
 On y trouve également des mises en garde en fin de chapitre. J’ai trouvé ces passages particulièrement révélateurs de l’état d’esprit de l’auteur et quelque part de son honnêteté. Clean Language et Systemic Modelling ne sont pas vendus comme des méthodes miracles. Ces mises en garde sont l’occasion de rappeler que des facteurs externes peuvent contribuer au succès de la démarche, que parfois les changements n’ont pas tenu dans la durée, …
 

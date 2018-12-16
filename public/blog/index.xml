@@ -2,59 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on The Agile Kaleidoscope</title>
-    <link>/blog/</link>
+    <link>https://www.theagilekaleidoscope.com/blog/</link>
     <description>Recent content in Blogs on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Oct 2018 12:53:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 21:00:16 +0100</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theagilekaleidoscope.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Would you mind a bit of Clean Language with your retrospective?</title>
-      <link>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</link>
-      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
+      <title>An incomplete report from the Agile Tour Zurich</title>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/11/report-agile-tour-zurich/</link>
+      <pubDate>Mon, 26 Nov 2018 21:00:16 +0100</pubDate>
       
-      <guid>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</guid>
-      <description>&lt;p&gt;Just under a month ago, I was preparing a retrospective for the main team that I coach. I like to regularly offer them different activities to stimulate their creativity and prevent a routine from settling in. So I was looking for a new format by browsing through my reading lists, books, and conference notes. That’s when the penny dropped! Wouldn’t this be a good opportunity to put my new Clean Language skills into practice? Of course, the answer was yes!
-&lt;/p&gt;</description>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/11/report-agile-tour-zurich/</guid>
+      <description>Last weekend, I was in Zürich for the very first edition of the Agile Tour Zürich. Let me share with you an incomplete report of what happened there.
+One could say that there are plenty of Agile Tour in France, so why go to Switzerland to attend and to speak at one, right? Let&amp;rsquo;s be honest. I was in the city this August for Agile Lean Europe 2018 and I did not fell in love with it.</description>
     </item>
     
     <item>
       <title>ALE introvert survival guide</title>
-      <link>/blog/2018/08/ale-introvert-guide/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</link>
       <pubDate>Tue, 14 Aug 2018 18:18:33 +0200</pubDate>
       
-      <guid>/blog/2018/08/ale-introvert-guide/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</guid>
       <description>In preparation for Agile Lean Europe 2018 in Zurich, the attendees have been invited by the fantastic organizers to a zoom call to open the space. During this call, the question about introversion in an open space event has been raised but not answered. It got me thinking. “How is it to be an introvert at ALE?”. If we’ve met, you probably have noticed that I’m on the introversion part of the spectrum.</description>
     </item>
     
     <item>
       <title>“From contempt to curiosity”, C. Walker – the genesis of Systemic Modelling</title>
-      <link>/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</link>
       <pubDate>Mon, 26 Mar 2018 18:39:13 +0200</pubDate>
       
-      <guid>/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</guid>
       <description>When one is talking about Clean Language and especially Clean with teams or groups, the time it takes before a reference is made to Caitlin Walker’s work is usually very short (around 10 to 15 seconds according to very serious studies). I’ve heard it mentioned so many times that I could not escape reading “From contempt to curiosity: creating the conditions for groups to collaborate”. Between you and me, I didn’t really force myself.</description>
     </item>
     
     <item>
       <title>When Work Is Magical</title>
-      <link>/blog/2018/02/when-work-is-magical/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/02/when-work-is-magical/</link>
       <pubDate>Fri, 16 Feb 2018 18:23:36 +0200</pubDate>
       
-      <guid>/blog/2018/02/when-work-is-magical/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/02/when-work-is-magical/</guid>
       <description>I have this question lingering on the back of my mind since I heard it asked by Olaf Lewitz and Christine Neidhardt at the Metaphorum. Lately, I’ve been putting a lot of effort into thinking about what I do, what I want to do, what my skills are and so on. It seems that I’ve been trying to put myself in a box (or multiple boxes) based on my deeds. Therefore this question “When my work is magical, it is like what?</description>
     </item>
     
     <item>
       <title>How to break free from content knowledge bias?</title>
-      <link>/blog/2017/12/how-to-break-free-from-knowledge-bias/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2017/12/how-to-break-free-from-knowledge-bias/</link>
       <pubDate>Mon, 11 Dec 2017 18:31:18 +0200</pubDate>
       
-      <guid>/blog/2017/12/how-to-break-free-from-knowledge-bias/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2017/12/how-to-break-free-from-knowledge-bias/</guid>
       <description>Do you ever feel that, as a facilitator, you are not as neutral as you would like to be? And that it is a barrier to achieve a better facilitation? I know I do. You might think that I had this feeling before when running a retrospective with one of my teams. It would make sense since I’m part of the team and get things done as well. Oddly enough, it is not.</description>
+    </item>
+    
+    <item>
+      <title>Would you mind a bit of Clean Language with your retrospective?</title>
+      <link>https://www.theagilekaleidoscope.com/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</link>
+      <pubDate>Thu, 09 Nov 2017 12:53:48 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</guid>
+      <description>&lt;p&gt;Just under a month ago, I was preparing a retrospective for the main team that I coach. I like to regularly offer them different activities to stimulate their creativity and prevent a routine from settling in. So I was looking for a new format by browsing through my reading lists, books, and conference notes. That’s when the penny dropped! Wouldn’t this be a good opportunity to put my new Clean Language skills into practice? Of course, the answer was yes!
+&lt;/p&gt;</description>
     </item>
     
   </channel>

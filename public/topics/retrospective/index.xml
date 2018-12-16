@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retrospective on The Agile Kaleidoscope</title>
-    <link>/topics/retrospective/</link>
+    <link>https://www.theagilekaleidoscope.com/topics/retrospective/</link>
     <description>Recent content in Retrospective on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Oct 2018 12:53:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2017 18:31:18 +0200</lastBuildDate>
     
-	<atom:link href="/topics/retrospective/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theagilekaleidoscope.com/topics/retrospective/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Would you mind a bit of Clean Language with your retrospective?</title>
-      <link>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</link>
-      <pubDate>Tue, 09 Oct 2018 12:53:48 +0200</pubDate>
-      
-      <guid>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</guid>
-      <description>&lt;p&gt;Just under a month ago, I was preparing a retrospective for the main team that I coach. I like to regularly offer them different activities to stimulate their creativity and prevent a routine from settling in. So I was looking for a new format by browsing through my reading lists, books, and conference notes. That’s when the penny dropped! Wouldn’t this be a good opportunity to put my new Clean Language skills into practice? Of course, the answer was yes!
-&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>How to break free from content knowledge bias?</title>
-      <link>/blog/2017/12/how-to-break-free-from-knowledge-bias/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2017/12/how-to-break-free-from-knowledge-bias/</link>
       <pubDate>Mon, 11 Dec 2017 18:31:18 +0200</pubDate>
       
-      <guid>/blog/2017/12/how-to-break-free-from-knowledge-bias/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2017/12/how-to-break-free-from-knowledge-bias/</guid>
       <description>Do you ever feel that, as a facilitator, you are not as neutral as you would like to be? And that it is a barrier to achieve a better facilitation? I know I do. You might think that I had this feeling before when running a retrospective with one of my teams. It would make sense since I’m part of the team and get things done as well. Oddly enough, it is not.</description>
+    </item>
+    
+    <item>
+      <title>Would you mind a bit of Clean Language with your retrospective?</title>
+      <link>https://www.theagilekaleidoscope.com/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</link>
+      <pubDate>Thu, 09 Nov 2017 12:53:48 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</guid>
+      <description>&lt;p&gt;Just under a month ago, I was preparing a retrospective for the main team that I coach. I like to regularly offer them different activities to stimulate their creativity and prevent a routine from settling in. So I was looking for a new format by browsing through my reading lists, books, and conference notes. That’s when the penny dropped! Wouldn’t this be a good opportunity to put my new Clean Language skills into practice? Of course, the answer was yes!
+&lt;/p&gt;</description>
     </item>
     
   </channel>

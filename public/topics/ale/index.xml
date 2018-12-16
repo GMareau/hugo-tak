@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ale on The Agile Kaleidoscope</title>
-    <link>/topics/ale/</link>
+    <link>https://www.theagilekaleidoscope.com/topics/ale/</link>
     <description>Recent content in Ale on The Agile Kaleidoscope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Aug 2018 18:18:33 +0200</lastBuildDate>
     
-	<atom:link href="/topics/ale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.theagilekaleidoscope.com/topics/ale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ALE introvert survival guide</title>
-      <link>/blog/2018/08/ale-introvert-guide/</link>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</link>
       <pubDate>Tue, 14 Aug 2018 18:18:33 +0200</pubDate>
       
-      <guid>/blog/2018/08/ale-introvert-guide/</guid>
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</guid>
       <description>In preparation for Agile Lean Europe 2018 in Zurich, the attendees have been invited by the fantastic organizers to a zoom call to open the space. During this call, the question about introversion in an open space event has been raised but not answered. It got me thinking. “How is it to be an introvert at ALE?”. If we’ve met, you probably have noticed that I’m on the introversion part of the spectrum.</description>
     </item>
     

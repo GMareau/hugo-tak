@@ -1,6 +1,6 @@
 ---
 title: "Would you mind a bit of Clean Language with your retrospective?"
-date: 2018-10-09T12:53:48+02:00
+date: 2017-11-09T12:53:48+02:00
 draft: false
 topics:
   - Clean Language

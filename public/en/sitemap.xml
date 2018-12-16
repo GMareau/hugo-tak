@@ -3,353 +3,381 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
+    <loc>https://www.theagilekaleidoscope.com/blog/2018/11/report-agile-tour-zurich/</loc>
+    <lastmod>2018-11-26T21:00:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/atam17/mostafa/</loc>
-    <lastmod>2018-09-09T19:25:10+02:00</lastmod>
+    <loc>https://www.theagilekaleidoscope.com/about/</loc>
+    <lastmod>2018-10-14T21:37:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/mostafa/"
+                href="https://www.theagilekaleidoscope.com/fr/a-propos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/mostafa/"
+                href="https://www.theagilekaleidoscope.com/about/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/mohamed/</loc>
+    <loc>https://www.theagilekaleidoscope.com/</loc>
+    <lastmod>2018-10-14T21:37:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/mostafa/</loc>
+    <lastmod>2018-09-09T19:25:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/mostafa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/mostafa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/mohamed/</loc>
     <lastmod>2018-09-09T19:25:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/mohamed/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/mohamed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/mohamed/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/mohamed/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/jerome/</loc>
-    <lastmod>2018-09-09T19:24:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/portfolio/atam17/jerome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/portfolio/atam17/jerome/"
-                />
-  </url>
-  
-  <url>
-    <loc>/portfolio/atam17/jean-luc/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/jean-luc/</loc>
     <lastmod>2018-09-09T19:24:50+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/jean-luc/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/jean-luc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/jean-luc/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/jean-luc/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/eric/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/eric/</loc>
     <lastmod>2018-09-09T19:24:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/eric/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/eric/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/eric/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/eric/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/anthony/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/anthony/</loc>
     <lastmod>2018-09-09T19:24:37+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/anthony/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/anthony/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/anthony/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/anthony/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/sophie/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/sophie/</loc>
     <lastmod>2018-09-09T19:24:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/sophie/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/sophie/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/sophie/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/sophie/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/viviane/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/viviane/</loc>
     <lastmod>2018-09-09T19:24:18+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/viviane/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/viviane/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/viviane/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/viviane/"
                 />
   </url>
   
   <url>
-    <loc>/blog/2018/08/ale-introvert-guide/</loc>
+    <loc>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</loc>
     <lastmod>2018-08-14T18:18:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</loc>
+    <loc>https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/</loc>
     <lastmod>2018-03-26T18:39:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
+                href="https://www.theagilekaleidoscope.com/fr/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
+                href="https://www.theagilekaleidoscope.com/blog/2018/03/contempt-curiosity-c-walker-genesis-systemic-modelling/"
                 />
   </url>
   
   <url>
-    <loc>/blog/2018/02/when-work-is-magical/</loc>
+    <loc>https://www.theagilekaleidoscope.com/blog/2018/02/when-work-is-magical/</loc>
     <lastmod>2018-02-16T18:23:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017/12/how-to-break-free-from-knowledge-bias/</loc>
+    <loc>https://www.theagilekaleidoscope.com/blog/2017/12/how-to-break-free-from-knowledge-bias/</loc>
     <lastmod>2017-12-11T18:31:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/jerome/</loc>
+    <lastmod>2017-12-09T19:24:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/jerome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/jerome/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/maria/</loc>
+    <lastmod>2017-12-09T19:24:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/maria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/maria/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/leo/</loc>
+    <lastmod>2017-12-09T19:24:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/leo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/leo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/yvan/</loc>
+    <lastmod>2017-12-09T19:24:43+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/yvan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/yvan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/blog/2017/11/would-you-mind-a-bit-of-clean-language-with-your-retrospective/</loc>
+    <lastmod>2017-11-09T12:53:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/"
+                href="https://www.theagilekaleidoscope.com/portfolio/"
                 />
   </url>
   
   <url>
-    <loc>/portfolio/atam17/</loc>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/atam17/</loc>
     <lastmod>2018-09-09T19:25:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/portfolio/atam17/"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/atam17/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/portfolio/atam17/"
+                href="https://www.theagilekaleidoscope.com/portfolio/atam17/"
                 />
   </url>
   
   <url>
-    <loc>/topics/ale/</loc>
+    <loc>https://www.theagilekaleidoscope.com/topics/ale/</loc>
     <lastmod>2018-08-14T18:18:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/portfolio/atam17/maria/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/portfolio/atam17/maria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/portfolio/atam17/maria/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
+    <loc>https://www.theagilekaleidoscope.com/blog/</loc>
+    <lastmod>2018-11-26T21:00:16+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/"
+                href="https://www.theagilekaleidoscope.com/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://www.theagilekaleidoscope.com/blog/"
                 />
   </url>
   
   <url>
-    <loc>/topics/books/</loc>
+    <loc>https://www.theagilekaleidoscope.com/topics/books/</loc>
     <lastmod>2018-03-26T18:39:13+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/topics/books/"
+                href="https://www.theagilekaleidoscope.com/fr/topics/books/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/topics/books/"
+                href="https://www.theagilekaleidoscope.com/topics/books/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.theagilekaleidoscope.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://www.theagilekaleidoscope.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://www.theagilekaleidoscope.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>/topics/clean-language/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/topics/facilitation/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/atam17/leo/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/portfolio/atam17/leo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/portfolio/atam17/leo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/topics/retrospective/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-10-09T12:53:48+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/topics/thoughts/</loc>
+    <loc>https://www.theagilekaleidoscope.com/topics/clean-language/</loc>
     <lastmod>2018-02-16T18:23:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/topics/</loc>
+    <loc>https://www.theagilekaleidoscope.com/topics/events/</loc>
+    <lastmod>2018-11-26T21:00:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/topics/facilitation/</loc>
+    <lastmod>2017-11-09T12:53:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/topics/retrospective/</loc>
+    <lastmod>2017-12-11T18:31:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/topics/thoughts/</loc>
+    <lastmod>2018-02-16T18:23:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/topics/</loc>
     <lastmod>2018-08-14T18:18:33+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/topics/"
+                href="https://www.theagilekaleidoscope.com/fr/topics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/topics/"
-                />
-  </url>
-  
-  <url>
-    <loc>/portfolio/atam17/yvan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/portfolio/atam17/yvan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/portfolio/atam17/yvan/"
+                href="https://www.theagilekaleidoscope.com/topics/"
                 />
   </url>
   

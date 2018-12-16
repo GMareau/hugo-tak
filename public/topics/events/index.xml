@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on The Agile Kaleidoscope</title>
+    <link>https://www.theagilekaleidoscope.com/topics/events/</link>
+    <description>Recent content in Events on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Nov 2018 21:00:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.theagilekaleidoscope.com/topics/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An incomplete report from the Agile Tour Zurich</title>
+      <link>https://www.theagilekaleidoscope.com/blog/2018/11/report-agile-tour-zurich/</link>
+      <pubDate>Mon, 26 Nov 2018 21:00:16 +0100</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/blog/2018/11/report-agile-tour-zurich/</guid>
+      <description>Last weekend, I was in Zürich for the very first edition of the Agile Tour Zürich. Let me share with you an incomplete report of what happened there.
+One could say that there are plenty of Agile Tour in France, so why go to Switzerland to attend and to speak at one, right? Let&amp;rsquo;s be honest. I was in the city this August for Agile Lean Europe 2018 and I did not fell in love with it.</description>
+    </item>
+    
+  </channel>
+</rss>
