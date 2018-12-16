@@ -8,9 +8,11 @@ DefaultContentLanguage = "en"
   [languages.en]
     weight = 1
     languageCode = "en"
+    languageName = "English version"
   [languages.fr]
     weight = 2
     languageCode = "fr"
+    languageName = "Version française"
     [languages.fr.params]
       description = "Un voyage photographique dans l'agilité et le lean et au-délà..."
       sidebarAbout = [

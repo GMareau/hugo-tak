@@ -16,7 +16,13 @@
       {{ end }}
     </ul>
     {{ partial "social_buttons_in_sidebar.html" . }}
-
+    <p>
+      {{ range $.Site.Home.AllTranslations }}
+        {{ if ne $.Site.Language.LanguageName .Language.LanguageName}}
+          <span><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></span>
+        {{ end }}
+      {{ end }}
+    </p>
     <div class="copyright">
       <p class="credit">
         {{ with .Site.Params.copyright }}
