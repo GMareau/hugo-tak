@@ -4,4 +4,5 @@ subtitle: ""
 draft: false
 ---
 
-The goal is to shoot as many portraits as I can of people from agile and lean. By zooming in the individuals, I want to explore the diversity of those that are forming our communities.
+L'Agile Tour Aix-Marseille est l'évènement agile de la région depuis 10 ans maintenant.
+Cette année, j'ai essayé quelque chose de nouveau : l'ardoise velleda.

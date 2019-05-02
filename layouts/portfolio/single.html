@@ -9,10 +9,10 @@
          <blockquote>{{ .Content }}</blockquote>
          {{ $img := .Resources.GetMatch "*"}}
            {{ if eq .Params.orientation "landscape"}}
-             {{ $fillImage := $img.Fill "1440x900"}}
+             {{ $fillImage := $img.Fit "1440x900"}}
              <img src="{{ $fillImage.RelPermalink }}"  alt="" class="img-responsive"/>
            {{ else }}
-             {{ $fillImage := $img.Fill "900x1350"}}
+             {{ $fillImage := $img.Fit "900x1350"}}
              <img src="{{ $fillImage.RelPermalink }}"  alt="" class="img-responsive"/>
            {{ end }}
          {{ template "_internal/disqus.html" . }}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Tour Aix-Marseille 2018 on The Agile Kaleidoscope</title>
+    <link>https://www.theagilekaleidoscope.com/portfolio/atam18/</link>
+    <description>Recent content in Agile Tour Aix-Marseille 2018 on The Agile Kaleidoscope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Dec 2018 19:25:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.theagilekaleidoscope.com/portfolio/atam18/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brice</title>
+      <link>https://www.theagilekaleidoscope.com/portfolio/atam18/brice/</link>
+      <pubDate>Thu, 06 Dec 2018 19:25:05 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/portfolio/atam18/brice/</guid>
+      <description>&lt;p&gt;Brice is a product owner.&lt;/p&gt;
+
+&lt;p&gt;He attends &lt;a href=&#34;https://www.meetup.com/fr-FR/Esprit-Agile-Aix-Marseille/&#34;&gt;Esprit Agile Aix-Marseille&lt;/a&gt;&amp;rsquo;s meetups on a regular basis.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fabrice</title>
+      <link>https://www.theagilekaleidoscope.com/portfolio/atam18/fabrice/</link>
+      <pubDate>Thu, 06 Dec 2018 19:25:05 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/portfolio/atam18/fabrice/</guid>
+      <description>&lt;p&gt;Fabrice is a lead tech.&lt;/p&gt;
+
+&lt;p&gt;He&amp;rsquo;s a former colleague and a friend.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>François</title>
+      <link>https://www.theagilekaleidoscope.com/portfolio/atam18/francois/</link>
+      <pubDate>Thu, 06 Dec 2018 19:25:05 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/portfolio/atam18/francois/</guid>
+      <description>&lt;p&gt;François is an agile coach.&lt;/p&gt;
+
+&lt;p&gt;As you can see he&amp;rsquo;s always smiling and have awesome drawing skills. You don&amp;rsquo;t want to make him mad! ;-)
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Julien</title>
+      <link>https://www.theagilekaleidoscope.com/portfolio/atam18/julien/</link>
+      <pubDate>Thu, 06 Dec 2018 19:25:05 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/portfolio/atam18/julien/</guid>
+      <description>&lt;p&gt;Julien started as a tech and agile freelancer some months ago.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Romain</title>
+      <link>https://www.theagilekaleidoscope.com/portfolio/atam18/romain/</link>
+      <pubDate>Thu, 06 Dec 2018 19:25:05 +0200</pubDate>
+      
+      <guid>https://www.theagilekaleidoscope.com/portfolio/atam18/romain/</guid>
+      <description>&lt;p&gt;Romain is an agile coach aka agility enabler.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
