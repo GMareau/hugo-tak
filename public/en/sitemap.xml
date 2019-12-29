@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale19/yuriy/</loc>
+    <lastmod>2019-08-23T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale19/yuriy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale19/yuriy/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.theagilekaleidoscope.com/portfolio/atam18/brice/</loc>
     <lastmod>2018-12-06T19:25:05+02:00</lastmod>
     <xhtml:link
@@ -368,6 +383,66 @@
   </url>
   
   <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale18/oana/</loc>
+    <lastmod>2018-08-24T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale18/oana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale18/oana/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale18/susanne/</loc>
+    <lastmod>2018-08-24T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale18/susanne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale18/susanne/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale18/sylvia/</loc>
+    <lastmod>2018-08-24T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale18/sylvia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale18/sylvia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale18/sonia/</loc>
+    <lastmod>2018-08-24T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale18/sonia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale18/sonia/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.theagilekaleidoscope.com/blog/2018/08/ale-introvert-guide/</loc>
     <lastmod>2018-08-14T18:18:33+02:00</lastmod>
   </url>
@@ -489,6 +564,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.theagilekaleidoscope.com/portfolio/ale18/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.theagilekaleidoscope.com/portfolio/ale19/</loc>
+    <lastmod>2019-08-23T19:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.theagilekaleidoscope.com/fr/portfolio/ale19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.theagilekaleidoscope.com/portfolio/ale19/"
                 />
   </url>
   
